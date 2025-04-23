@@ -1,0 +1,6 @@
+7464	hassan			Supra			500	7	3500	
+7464	hassan			Supra			500	4	2000	
+7464	hassan			Supra			500	8	4000	
+7464	hassan			dodge			700	5	3500	
+7464	hassan			dodge			450	4	1800	
+5827	sami			Supra			500	3	1500	
